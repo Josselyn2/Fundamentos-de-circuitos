@@ -11,3 +11,18 @@
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E10.jpg?raw=true)
 12. Veinte millones de ohms pueden ser expresados como 
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E12.jpg?raw=true)
+
+NOTACION CIENTIFCA
+2. Exprese cada número fraccionario en notación científica:
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E2N.jpg?raw=true)
+4. Exprese cada uno de los números siguientes en notación científica: 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E4N.jpg?raw=true)
+6. Exprese cada uno de los números siguientes como un número decimal regular: 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E6N.jpg?raw=true)
+8. Exprese cada número de los siguientes como un número decimal regular: 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E8N.jpg?raw=true)
+10. Efectúe las siguientes sustracciones: 
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E10N.jpg?raw=true)
+12. Realice las siguientes divisiones:
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E12N.jpg?raw=true)
+
