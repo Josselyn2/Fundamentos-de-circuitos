@@ -26,3 +26,4 @@ NOTACION CIENTIFCA
 12. Realice las siguientes divisiones:
 ![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E12N.jpg?raw=true)
 
+SECCIÓN 1–3 Notación de ingeniería y prefijos métricos 
