@@ -13,6 +13,7 @@
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E12.jpg?raw=true)
 
 NOTACION CIENTIFCA
+
 2. Exprese cada número fraccionario en notación científica:
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E2N.jpg?raw=true)
 4. Exprese cada uno de los números siguientes en notación científica: 
