@@ -86,9 +86,13 @@ CARGA ELECTRICA
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E14C.jpg?raw=true)
 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 ![1]( https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E16C.jpg?raw=true)
+
+
 SECCIÓN 2–4 Fuentes de voltaje y de corriente 
 18. ¿En qué principio se basan los generadores eléctricos? 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E18C.jpg?raw=true)
 20. Cierta fuente de corriente proporciona 100 mA a 1 k de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga? 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E20C.jpg?raw=true)
 
 
 
