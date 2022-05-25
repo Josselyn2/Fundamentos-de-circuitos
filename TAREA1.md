@@ -1,4 +1,23 @@
-# Fundamentos-de-
+#TAREA-1 CAP1Y2
+
+OBJETIVOS:
+
+Conocer y Aprender de manera clara y precisa los conceptos de ciertos terminos abordados dentro de estos capitulos como son las unidades de medidas,notacion cientifica e ingenieria ademas prefijos que usaremos dentro de todo el proceso de aprendizaje de esta materia para poder realizar de manera correcta la resolucion de ejercicios propuestos ademas de reforzar los conocimientos y ponerlos en practica. 
+
+OBJETIVOS ESPECIFICOS: 
+
+1.Reconocer de manera eficaz la diferencias entre notacion cientifica y ingeniera para darles el uso correcto. 
+
+2.Desarrollar la resolucion correcta para los ejercicios propuestos orientados al tema de voltaje,resistencia y corriente. 
+
+3.Establecer conocimientos precisos inducidos a los temas de acuerdo a la materia. 
+
+
+MARCO TEORICO:
+
+UNIDADES DE MEDICION 
+
+
 CAPITULO  1 
 
 2. La unidad de corriente es:
