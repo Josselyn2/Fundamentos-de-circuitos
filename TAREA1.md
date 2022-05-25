@@ -31,7 +31,21 @@ CONVERSION DE MEDIDAS
 
 CAPITULO 2 
 
+ESTRUCTURA ATOMICA 
 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/EM4.jpg?raw=true)
+
+CARGA ELECTRICA
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/CM5.jpg?raw=true)
+
+VOLTAJE,CORRIENTE Y RESISTENCIA
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/VM6.jpg?raw=true)
+
+FUENTES DE VOLTAJE Y CORRIENTE 
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/FM7.jpg?raw=true) 
 
 
 CAPITULO  1 
