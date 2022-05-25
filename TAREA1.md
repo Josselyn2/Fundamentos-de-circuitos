@@ -1,5 +1,6 @@
 # Fundamentos-de-
-CAPITULO 1
+CAPITULO  1 
+
 2. La unidad de corriente es:
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E2.jpg?raw=true)
 4. La unidad de resistencia es:	
@@ -35,18 +36,19 @@ SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 16. Exprese cada número en notación de ingeniería: 
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E16N.jpg?raw=true)
 18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E18N.jpg?raw=true)
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E18N.jpg?raw=true)
 20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico
-[![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E20N.jpg?raw=true)
-22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
-![1](
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E20N.jpg?raw=true)
+22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E22N.jpg?raw=true)
 24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos
-![1](
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E24N.jpg?raw=true)
 26. Exprese cada cantidad en notación de ingeniería:
-![1](
-28. Determine lo siguiente:
-![1](
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E26N.jpg?raw=true)
+28. Determine lo siguiente:  
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E28N.jpg?raw=true)
 30. Realice las siguientes operaciones
-![1](
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E30N.jpg?raw=true)
+
 
 
