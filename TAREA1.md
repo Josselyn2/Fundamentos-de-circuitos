@@ -96,4 +96,36 @@ SECCIÓN 2–4 Fuentes de voltaje y de corriente
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E20C.jpg?raw=true)
 
 
+SECCIÓN 2–5 Resistores 
+
+
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+ ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E22R.jpg?raw=true)
+24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E24R.jpg?raw=true)
+26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E26R.jpg?raw=true)
+28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E28R.jpg?raw=true)
+En este caso si tenemos una resistencia total de 1000 cada terminal tendrá 500ꭥ de resistencia
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E30R.jpg?raw=true)
+32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva. 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E32R.jpg?raw=true)
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E34R.jpg?raw=true)
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E36R.jpg?raw=true)
+38. Explique cómo mediría la resistencia de R2 en la figura 2-72
+  ![1](  https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E38R.jpg?raw=true)         
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E40R.jpg?raw=true)
+42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E42R.jpg?raw=true)
+44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E44R.jpg?raw=true)
+46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?.
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E46R.jpg?raw=true)
+
+
 
