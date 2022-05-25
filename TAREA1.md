@@ -1,10 +1,10 @@
 #TAREA-1 CAP1Y2
 
-OBJETIVOS:
+1.OBJETIVOS:
 
 Conocer y Aprender de manera clara y precisa los conceptos de ciertos terminos abordados dentro de estos capitulos como son las unidades de medidas,notacion cientifica e ingenieria ademas prefijos que usaremos dentro de todo el proceso de aprendizaje de esta materia para poder realizar de manera correcta la resolucion de ejercicios propuestos ademas de reforzar los conocimientos y ponerlos en practica. 
 
-OBJETIVOS ESPECIFICOS: 
+2. OBJETIVOS ESPECIFICOS: 
 
 1.Reconocer de manera eficaz la diferencias entre notacion cientifica y ingeniera para darles el uso correcto. 
 
@@ -13,9 +13,25 @@ OBJETIVOS ESPECIFICOS:
 3.Establecer conocimientos precisos inducidos a los temas de acuerdo a la materia. 
 
 
-MARCO TEORICO:
+3.MARCO TEORICO:
+
+CAPITULO 1 
 
 UNIDADES DE MEDICION 
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/UM1.jpg?raw=true)
+
+NOTACION CIENTIFICA 
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/NM2.jpg?raw=true)
+
+CONVERSION DE MEDIDAS
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/CM3.jpg?raw=true)
+
+CAPITULO 2 
+
+
 
 
 CAPITULO  1 
