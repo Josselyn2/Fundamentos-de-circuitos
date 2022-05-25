@@ -75,7 +75,9 @@ CARGA ELECTRICA
 4. ¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E4C.jpg?raw=true)
 6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es  el voltaje a través del resistor? 
-8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito? 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E6C.jpg?raw=true)
+8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+ ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E8C.jpg?raw=true)
 10. Determine la corriente en cada uno de los siguientes casos: 
 12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? 
 14. 5.74 x {\mathrm{10}}^{\mathrm{17}} electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes? 
