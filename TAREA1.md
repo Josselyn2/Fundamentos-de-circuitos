@@ -78,10 +78,14 @@ CARGA ELECTRICA
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E6C.jpg?raw=true)
 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
  ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E8C.jpg?raw=true)
-10. Determine la corriente en cada uno de los siguientes casos: 
-12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? 
-14. 5.74 x {\mathrm{10}}^{\mathrm{17}} electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes? 
-16. Encuentre la resistencia correspondiente a las siguientes conductancias: 
+10. Determine la corriente en cada uno de los siguientes casos:
+ ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E10C.jpg?raw=true)
+12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+![1]( https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E12C.jpg?raw=true)
+14. 5.74 x {\mathrm{10}}^{\mathrm{17}} electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E14C.jpg?raw=true)
+16. Encuentre la resistencia correspondiente a las siguientes conductancias:
+![1]( https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E16C.jpg?raw=true)
 SECCIÓN 2–4 Fuentes de voltaje y de corriente 
 18. ¿En qué principio se basan los generadores eléctricos? 
 20. Cierta fuente de corriente proporciona 100 mA a 1 k de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga? 
