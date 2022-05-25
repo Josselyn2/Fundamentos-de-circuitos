@@ -48,6 +48,12 @@ FUENTES DE VOLTAJE Y CORRIENTE
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/FM7.jpg?raw=true) 
 
 
+
+
+
+
+3.EXPLICACION Y RESOLUCION DE EJERCICIOS. 
+
 CAPITULO  1 
 
 2. La unidad de corriente es:
@@ -175,6 +181,10 @@ En este caso si tenemos una resistencia total de 1000 cada terminal tendrá 500�
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E44R.jpg?raw=true)
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?.
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E46R.jpg?raw=true)
+
+4.CONCLUSIONES
+
+
 
 
 
