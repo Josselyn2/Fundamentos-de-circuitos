@@ -37,7 +37,7 @@ CAPITULO 2
 CAPITULO  1 
 
 2. La unidad de corriente es:
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E2.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E2.jpg?raw=true)
 4. La unidad de resistencia es:	
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E4.jpg?raw=true)
 6. 15,000 W es lo mismo que
