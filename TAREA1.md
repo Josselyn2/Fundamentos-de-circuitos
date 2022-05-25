@@ -50,5 +50,27 @@ SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 30. Realice las siguientes operaciones
 ![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E30N.jpg?raw=true)
 
+CAPITULO 2 
+
+2. Las órbitas de los electrones se llaman
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E2A.jpg?raw=true)
+4. Cuando se colocan cerca uno del otro, un material positivamente cargado y uno negativamente cargado se:
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E4A.jpg?raw=true)
+6. Diferencia de potencial es otro término para: 
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E6A.jpg?raw=true)
+8. ¿Cuál de los siguientes artefactos no es un tipo de fuente de energía?:
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E8A.jpg?raw=true)
+10. La corriente eléctrica se define como:
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E10A.jpg?raw=true)
+12. El propósito primordial de un resistor es: 
+![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E12A.jpg?raw=true)
+14. En un circuito dado, la corriente no debe exceder de 22 A. ¿Qué valor de fusible es mejor?:
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E14A.jpg?raw=true)
+
+CARGA ELECTRICA 
+
+
+2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro
+[![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E2C.jpg?raw=true)
 
 
