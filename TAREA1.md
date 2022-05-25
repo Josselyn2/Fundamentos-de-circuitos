@@ -47,10 +47,49 @@ FUENTES DE VOLTAJE Y CORRIENTE
 
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/FM7.jpg?raw=true) 
 
+FUENTE DE CORRIENTE
 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/FM8.jpg?raw=true)
 
+RESISTORES
 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/RM9.jpg?raw=true)
 
+CODIGOS DE COLORES Y ROTULACION 
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/RM10.jpg?raw=true)
+
+RESISTORES VARIABLES 
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/RM11.jpg?raw=true)
+
+CIRCUITO ELECTRICO
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CM12.jpg?raw=true)
+
+SIMBOLOS DE INTERRUPTOR
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/SM13.jpg?raw=true)
+
+ALAMBRES
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/AM14.jpg?raw=true)
+
+MEDICIONES DE CIRCUITO BASICAS 
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MM15%20(2).jpg?raw=true)
+
+MULTIMETROS DIGITALES
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MM16.jpg?raw=true)
+
+LECTURA DE MULTIMETROS ANALOGICOS
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/LM17.jpg?raw=true)
+
+SEGURIDAD ELECTRICA
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/SM18.jpg?raw=true)
 
 3.EXPLICACION Y RESOLUCION DE EJERCICIOS. 
 
