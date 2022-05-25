@@ -73,7 +73,7 @@ CARGA ELECTRICA
 2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro
 [![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/TAREA1/E2C.jpg?raw=true)
 4. ¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
- 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E4C.jpg?raw=true)
 6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es  el voltaje a través del resistor? 
 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito? 
 10. Determine la corriente en cada uno de los siguientes casos: 
