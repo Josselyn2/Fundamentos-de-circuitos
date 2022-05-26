@@ -221,9 +221,14 @@ En este caso si tenemos una resistencia total de 1000 cada terminal tendrá 500�
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?.
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/E46R.jpg?raw=true)
 
+
 4.CONCLUSIONES
 
 En base a la resolucion de los ejercicios propuestos anteriormente hemos logrado adquirir y aprender correctamente los temas propuestos en los capitulo 1 y 2 hemos logrado usar y relacionar correctamente todo lo que corresponde a notaciones cientificas y notacion ingenieria ademas hemos adquirido la aptitud necesaria para realizar conversiones y reconocer los prefijos correctos ademas hemos aprendido los valores exactos a los que pertenecen los prefijos mencionados en este capitulo por otro lado tambien hemos podido memorizar de manera clara las formulas para realizar los calculos de corriente electrica,voltaje y resistencia logrando asi poder despejar cada una de las variables y obtener el resultado correcto ademas hemos aprendido a usar correctamente las herramientas de medicion para la corriente voltaje y resistencia de manera que hemos logrado darle uso y conocer uno a uno sus partes y colocacion correcta para las mediciones. 
+
+5.VIDEO 
+
+https://youtu.be/rSEX50sdUyE
 
 6.BIBLIOGRAFIA
 
