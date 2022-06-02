@@ -1,6 +1,7 @@
 # TAREA2 CAP3Y4
 
-3.EXPLICACION Y RESOLUCION DE EJERCICIOS
+3.EXPLICACION Y RESOLUCION DE 
+
 2. Cuando el voltaje a través de un resistor se duplique, la corriente
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/AE2.jpg?raw=true)  
 4. Cuando circulan 10 mA de corriente a través de un resistor de 1.0 k, el voltaje del resistor es
@@ -26,6 +27,7 @@
 14. Si la lámpara se funde (abre), la corriente
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/EE14.jpg?raw=true)
 PROBLEMAS
+
 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE2.jpg?raw=true)
 4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
