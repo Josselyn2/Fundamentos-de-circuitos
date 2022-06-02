@@ -55,10 +55,15 @@ PROBLEMAS
 ![1[](](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE22.jpg?raw=true)
 24. Calcule el voltaje para cada valor de I y R:
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE24.jpg?raw=true)
+
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE26.jpg?raw=true)
+
 28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE28.jpg?raw=true)
+
 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
 ![1]( https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE30.jpg?raw=true)
