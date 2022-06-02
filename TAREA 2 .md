@@ -26,6 +26,7 @@
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/EE12.jpg?raw=true)
 14. Si la lámpara se funde (abre), la corriente
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/EE14.jpg?raw=true)
+
 PROBLEMAS
 
 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
