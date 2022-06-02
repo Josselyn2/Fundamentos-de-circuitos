@@ -58,11 +58,11 @@ PROBLEMAS
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE24.jpg?raw=true)
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE26.jpg?raw=true)
-(28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE28.jpg?raw=true)
 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 ![1]( https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE30.jpg?raw=true)
-(32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE32.jpg?raw=true)
 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15ꭥ.
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE34.jpg?raw=true)
