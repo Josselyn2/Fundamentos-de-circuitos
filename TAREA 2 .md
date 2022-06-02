@@ -21,7 +21,9 @@
 8. Si el resistor se retira del circuito y deja una abertura, la lectura del voltímetro
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/EE8.jpg?raw=true)
 10. Si se ajusta el reóstato para incrementar la resistencia, el voltaje de la fuente
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/EE10.jpg?raw=true)
+
 12. Si el voltaje de la fuente se incrementa, el voltaje a través del elemento calentador
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/EE12.jpg?raw=true)
 14. Si la lámpara se funde (abre), la corriente
