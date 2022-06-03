@@ -224,7 +224,9 @@ PROBLEMAS
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E36.jpg?raw=true)
 
 
+
 4. CONCLUSIONES
+
 
 - Hemos logrado realizar la resolucion y el analisis eficaz de los componentes de cada circuito planteado en los capitulos 3 y 4 gracias al uso de las leyes aprendidas que en este caso han sido la ley de ohms y de Kirchhoff ademas hemos logrado reconocer la equivalencia entre cada circuito asi como con otros ademas hemos adquirido la fortaleza de localizar las fallas en los circuitos gracias a las recomendaciones mencionadas en la teoria.
 - Resaltaremos el hecho de que la potencia electrica y la energia son conceptos muy diferentes pero sin embargo estan ligados hacia el mismo uso que en este caso en la vida cotidiana se da y es el consumo de electricidad que a diario se presenta de esta manera nos permitimos reconocer como fluye la energia en nuestro hogares y cuales son las recomendaciones para las instalaciones de electricidad. 
