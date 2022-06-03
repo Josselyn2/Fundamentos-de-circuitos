@@ -223,6 +223,7 @@ PROBLEMAS
 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E36.jpg?raw=true)
 
+
 4. CONCLUSIONES
 
 - Hemos logrado realizar la resolucion y el analisis eficaz de los componentes de cada circuito planteado en los capitulos 3 y 4 gracias al uso de las leyes aprendidas que en este caso han sido la ley de ohms y de Kirchhoff ademas hemos logrado reconocer la equivalencia entre cada circuito asi como con otros ademas hemos adquirido la fortaleza de localizar las fallas en los circuitos gracias a las recomendaciones mencionadas en la teoria.
