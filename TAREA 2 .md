@@ -1,6 +1,7 @@
 # TAREA2 CAP3Y4
 
 3.EXPLICACION Y RESOLUCION DE 
+CAPITULO 3 
 
 2. Cuando el voltaje a través de un resistor se duplique, la corriente
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/AE2.jpg?raw=true)  
@@ -87,3 +88,74 @@ PROBLEMAS
 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/PE36.jpg?raw=true)
+
+CAPITULO 4 
+
+2. Si se consumen doscientos Joules de energía en 10 s. La potencia es
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/A4E2.jpg?raw=true)
+4. En 50 kW, hay
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/A4E4.jpg?raw=true)
+6. Con 10 V y 50 mA, la potencia es
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/A4E6.jpg?raw=true)
+8. Un resistor de 2.2 kÆ disipa 0.5 W. La corriente es
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/A4E8.jpg?raw=true)
+10. Si utiliza 500 W de potencia durante 24 h, ha utilizado
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/A4E10.jpg?raw=true)
+12. Un resistor de 100 Æ debe transportar una corriente máxima de 35 mA. Su capacidad deberá ser de por lo menos
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/A4E12.jpg?raw=true)
+14. Un resistor de 22 Æ y medio watt y un resistor de 220 Æ y medio watt se conectan a través de una fuente de 10 V. ¿Cuál o cuáles resistores se sobrecalentarán?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/A4E14.jpg?raw=true)
+16. Se conecta una batería de 12 V a una carga de 600 Æ. En estas condiciones, su capacidad es de 50 Ah.¿Cuánto tiempo puede suministrar corriente a la carga?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/A4E16.jpg?raw=true)
+18. Una fuente de potencia produce una salida de 0.5 W con una entrada de 0.6 W. Su porcentaje de eficiencia es
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/A4E18.jpg?raw=true)
+17. Si el voltaje a través de un resistor fijo cambia de 10 V a 7 V, la potencia en el resistor
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/E4E2.jpg?raw=true)
+18. Si el voltaje a través de un resistor se incrementa de 5 a 10 V y la corriente aumenta de 1 mA a 2 mA,la potencia
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/E4E4.jpg?raw=true)
+19. Si la cantidad de tiempo que una batería suministra corriente a una carga disminuye, su capacidad de amperes-hora.
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/E4E6.jpg?raw=true)
+20. Si no hay una carga conectada a una batería, su capacidad de amperes-hora
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/E4E8.jpg?raw=true)
+21. Con un voltaje constante de salida, si la corriente suministrada a la carga disminuye, la potencia suministrada a la carga
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/E4E10.jpg?raw=true)
+22. Si la carga se retira del circuito y deja una apertura, idealmente el voltaje de salida de la fuente de potencia
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/E4E12.jpg?raw=true)
+PROBLEMAS
+
+2. Demuestre que hay 3.6 x 10ᶺ6 Joules en un kilowatt-hora.
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E2.jpg?raw=true)
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E4.jpg?raw=true)
+6. Convierta las siguientes cantidades en kilowatts:
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E6.jpg?raw=true)
+8. Convierta las siguientes cantidades en miliwatts:
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E8.jpg?raw=true)
+10. Convierta las siguientes cantidades en watts:
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E1O.jpg?raw=true)
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E12.jpg?raw=true)
+14. Convierta 5 106 watts-minutos en kWh.
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E14.jpg?raw=true)
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E16.jpg?raw=true)
+18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E18.jpg?raw=true)
+20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4?7 kꭥ?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E20.jpg?raw=true)
+22. Si entre los extremos de un resistor de 680ꭥ existen 60 V, ¿cuál es la potencia?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E22.jpg?raw=true)
+24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E24.jpg?raw=true)
+26. Un resistor de 6.8 kꭥ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E26.jpg?raw=true)
+28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor. 
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E28.jpg?raw=true)
+30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 ꭥ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E30.jpg?raw=true)
+32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E32.jpg?raw=true)
+34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E34.jpg?raw=true)
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/P4E36.jpg?raw=true)
