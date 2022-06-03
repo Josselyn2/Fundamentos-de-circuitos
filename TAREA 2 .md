@@ -6,7 +6,9 @@ Aprender y entender conceptos fundamentales basicos acerca de la corriente,volta
  2. OBJETIVOS ESPECIFICOS: 
  
   1.Dar uso a la primero ley aprendida en el capitulo 3 llamada la ley de ohm que contiene formulas de voltaje y resistencia.
+  
   2.Analizar como se relacionan las magnitudes de voltaje,corriente y resistencia.
+  
   3.Examinar la importancia y la utilidad de la potencia y energia para la resolucion y analisis de los circuitos electricos. 
 
 3. MARCO TEORICO: 
@@ -18,37 +20,47 @@ LA RELACION DE CORRIENTE VOLTAJE Y RESISTENCIA
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA1.jpg?raw=true)
 
 CALCULO DE LA CORRIENTE 
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA2.jpg?raw=true)
 
 CALCULO DE VOLTAJE
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA%203.jpg?raw=true)
 
 CALCULO DE RESISTENCIA 
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA%204.jpg?raw=true) 
 
 INTRODUCCION A LA LOCALIZACION DE FALLAS 
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA%205.jpg?raw=true) 
 
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA6.jpg?raw=true)
 
 COMPARACION DE MEDICIONES DE V,R E I
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA%207.jpg?raw=true)
 
 CAPITULO 4 
 
 ENERGIA Y POTENCIA
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA8.jpg?raw=true) 
 
 POTENCIA EN UN CIRCUITO ELECTRICO 
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA%209.jpg?raw=true) 
 
 POTENCIA NOMINAL EN RESISTORES
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA%2010.jpg?raw=true) 
 
 CONVERSION DE ENERGIA Y CAIDA DE VOLTAJE EN UNA RESISTENCIA 
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA%2011.jpg?raw=true) 
 
 FUENTES DE POTENCIA 
+
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/MAPA%2012.jpg?raw=true)
 
 3.EXPLICACION Y RESOLUCION DE 
