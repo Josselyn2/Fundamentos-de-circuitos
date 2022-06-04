@@ -233,6 +233,8 @@ PROBLEMAS
 
 5. VIDEO 
 
-6.BIBLIOGRAFIA 
+https://youtu.be/msq9XxjJ6b8
+
+6.BIBLIOGRAFÍA
 
 FLOYD, T. L. ( 2007). Principios de circuitos eléctricos.(Octava edición). Naucalpan de Juárez, Mexico: PEARSON EDUCACIÓN.
