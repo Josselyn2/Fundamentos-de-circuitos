@@ -96,7 +96,7 @@ b)	Una combinación serie de tres circuitos en paralelo, cada circuito con dos r
 
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/EJ6.jpg?raw=true)
 
-8) Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de
+8) Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?
 
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/EJ8.jpg?raw=true)
 
