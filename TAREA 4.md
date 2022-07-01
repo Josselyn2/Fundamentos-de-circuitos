@@ -2,82 +2,44 @@
 
 Fundamentos-de-circuitos
 TAREA3 CAP5Y6
+
 1.OBJETIVOS:
 
-Conocer y aprender conceptos que relaciona la ley de kirchhoff como son la potencia el voltaje la resistencia la corriente entre otros estas leyes las podemos utilizar tanto para el analisis de circuitos en serie como circuitos en paralelo segun lo estudiado de fundamentos de circuitos electricos ademas reconoceremos las fallas que puedan ser posibles en ciertos modelos de circuitos por otro lado calcular las resistencia totales de los circuitos y saber calcular caidas de voltaje o lo que sucede en caso de un cortocircuito.
+Aprender conceptos y el uso de las leyes presentes en estos dos capitulos las cuales son leyes de kirchhoff asi como tambien conocer acerca de los puentes que podemos realizar en cada circuito ya sea en paralelo o en serie de esta manera podremos analizar uno por uno cada circuito he ir buscando soluciones a cada uno de ellos de la manera mas practica posible realizando ejercicios siguiendo la directrices de el aprendizaje adquirido en estos capitulos. 
 
 OBJETIVOS ESPECIFICOS:
 
-Ansorber la informacion necesaria para lograr el aprendizaje necesario segun la ley mencionada para el correcto analisis de los circuitos en serie y en paralelo.
+1.Reconocer como se presentan las leyes aprendidas en este capitulo tanto para un circuito en serie como en un circuito en paralelo 
 
-2.Demostrar como se van presentando cada ley de kirchhoff en los diferentes tipos de circuitos en cada modelo segun se vaya presentando.
+2.Absorver de manera correcta y logica el aprendizaje dado mediante este texto.
 
 3.Entender de manera clara y consisa mediante la resolucion y practica de cada ejercicio presente en estos capitulos.
 
 MARCO TEORICO:
-CAPITULO 5
+CAPITULO 7
 
-1
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA1CAP7.png?raw=true)
 
-1
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA2CAP7.png?raw=true)
 
-1
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA3CAP7.png?raw=true)
 
-1
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA4CAP7.png?raw=true)
 
-1
+CAPITULO 8
 
-1
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA1CAP8.png?raw=true)
 
-CAPITULO 6
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA2CAP8.png?raw=true)
 
-1
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA3CAP8.png?raw=true)
 
-1
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA4CAP8.png?raw=true)
 
-1
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA5CAP8.png?raw=true)
 
-1
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA6CAP8.png?raw=true)
 
-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-Fundamentos-de-circuitos
-TAREA3 CAP5Y6
-1.OBJETIVOS:
-
-Conocer y aprender conceptos que relaciona la ley de kirchhoff como son la potencia el voltaje la resistencia la corriente entre otros estas leyes las podemos utilizar tanto para el analisis de circuitos en serie como circuitos en paralelo segun lo estudiado de fundamentos de circuitos electricos ademas reconoceremos las fallas que puedan ser posibles en ciertos modelos de circuitos por otro lado calcular las resistencia totales de los circuitos y saber calcular caidas de voltaje o lo que sucede en caso de un cortocircuito.
-
-OBJETIVOS ESPECIFICOS:
-
-Ansorber la informacion necesaria para lograr el aprendizaje necesario segun la ley mencionada para el correcto analisis de los circuitos en serie y en paralelo.
-
-2.Demostrar como se van presentando cada ley de kirchhoff en los diferentes tipos de circuitos en cada modelo segun se vaya presentando.
-
-3.Entender de manera clara y consisa mediante la resolucion y practica de cada ejercicio presente en estos capitulos.
-
-MARCO TEORICO:
-CAPITULO 5
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-CAPITULO 6
-
-1
-
-1
-
-1
-
-1
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -289,7 +251,7 @@ SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 Hemos ligrado diferenciar de manera correcta los dos tipos de circuitos y como cada uno funciona en cuanto a voltajes y sus resistencias ademas podemos reconocer que en cuanto a circuitos en paralelo podemos realizar los calculos de resistencia pues es mas facil realizarlo debido a que estan de esta manera en paralelo y por lo tanto la corriente en este circuito se mantiene mientras que en el circuito en serie la corriente se divide ademas logramos identificar correctamente cuales son las fallas que se presentan y como debemos realizar los calculos tomando en cuenta ciertas caidas de voltaje para asi realizar bien los calculos.
 
 VIDEO
-https://youtu.be/K-pekgBKPqY
+https://www.youtube.com/watch?v=iVFVcOvJpw4
 
 7.BIBLIOGRAFÍA
 
