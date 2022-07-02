@@ -1,13 +1,13 @@
 # Fundamentos-de-circuitos
 
 Fundamentos-de-circuitos
-TAREA3 CAP5Y6
+TAREA3 CAP7Y8
 
 1.OBJETIVOS:
 
 Aprender conceptos y el uso de las leyes presentes en estos dos capitulos las cuales son leyes de kirchhoff asi como tambien conocer acerca de los puentes que podemos realizar en cada circuito ya sea en paralelo o en serie de esta manera podremos analizar uno por uno cada circuito he ir buscando soluciones a cada uno de ellos de la manera mas practica posible realizando ejercicios siguiendo la directrices de el aprendizaje adquirido en estos capitulos. 
 
-OBJETIVOS ESPECIFICOS:
+2.OBJETIVOS ESPECIFICOS:
 
 1.Reconocer como se presentan las leyes aprendidas en este capitulo tanto para un circuito en serie como en un circuito en paralelo 
 
@@ -15,7 +15,7 @@ OBJETIVOS ESPECIFICOS:
 
 3.Entender de manera clara y consisa mediante la resolucion y practica de cada ejercicio presente en estos capitulos.
 
-MARCO TEORICO:
+3.MARCO TEORICO:
 CAPITULO 7
 
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA1CAP7.png?raw=true)
@@ -41,7 +41,7 @@ CAPITULO 8
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP7Y8/MAPA6CAP8.png?raw=true)
 
 
-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+4.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Capítulo 7 Circuito Serie-Paralelo 
 2) Visualice y trace los siguientes circuitos en serie-paralelo:
@@ -248,7 +248,8 @@ SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
 5.CONCLUSIONES
 
-Hemos ligrado diferenciar de manera correcta los dos tipos de circuitos y como cada uno funciona en cuanto a voltajes y sus resistencias ademas podemos reconocer que en cuanto a circuitos en paralelo podemos realizar los calculos de resistencia pues es mas facil realizarlo debido a que estan de esta manera en paralelo y por lo tanto la corriente en este circuito se mantiene mientras que en el circuito en serie la corriente se divide ademas logramos identificar correctamente cuales son las fallas que se presentan y como debemos realizar los calculos tomando en cuenta ciertas caidas de voltaje para asi realizar bien los calculos.
+Mediante el uso de las leyes aprendidas en estos capitulos hemos logrado analizar y resolver de la mejor manera posible cada circuito que se nos ha presentado obteniendo asi resultados correctos asi como tambien entendiendo ciertos conceptos y fenomemos que suceden en cada caso y en cada circuito que se nos pudiera presentar adenmas hemos alcanzado el aprendizaje requerido para este tema de tal manera que podemos reconocer las leyes y resolver de la manera mas facil analizando cada circuito y conociendo que es lo que esta sucediendo en cada uno de ellos. 
+
 
 VIDEO
 https://www.youtube.com/watch?v=iVFVcOvJpw4
