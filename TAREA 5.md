@@ -1,19 +1,19 @@
 # Fundamentos-de-circuitos
 
 Fundamentos-de-circuitos
-TAREA3 CAP7Y8
+TAREA5 CAP9Y10
 
 1.OBJETIVOS:
-
-Aprender conceptos y el uso de las leyes presentes en estos dos capitulos las cuales son leyes de kirchhoff asi como tambien conocer acerca de los puentes que podemos realizar en cada circuito ya sea en paralelo o en serie de esta manera podremos analizar uno por uno cada circuito he ir buscando soluciones a cada uno de ellos de la manera mas practica posible realizando ejercicios siguiendo la directrices de el aprendizaje adquirido en estos capitulos. 
+ 
+ Reconocer y aprender los metodos que existen para resolver sistemas de ecuaciones simultaneas ademas usar de manera correcta calculadoras virtuales para encontrar valores en los sistemas de ecuaciones por otro lado tambien aprenderemos los principios que tiene un campo magnetico y como podemos calcular la densidad de flujo y entre otras cosas de tal manera que podamos realizar correctamente los ejercicios propuestos en estos dos capitulos antes mencionados. 
 
 2.OBJETIVOS ESPECIFICOS:
 
-1.Reconocer como se presentan las leyes aprendidas en este capitulo tanto para un circuito en serie como en un circuito en paralelo 
+1.Reconocer los metodos existentes para poder calcular el sistema de ecuaciones de manera rapido y correcta. 
 
-2.Absorver de manera correcta y logica el aprendizaje dado mediante este texto.
+2.Conocer el concepto del flujo magnetico como parte del electromagnetismo.
 
-3.Entender de manera clara y consisa mediante la resolucion y practica de cada ejercicio presente en estos capitulos.
+3.Entender la ley de faraday en relacion a la induccion electromagnetica. 
 
 3.MARCO TEORICO:
 
@@ -152,7 +152,7 @@ Mediante el uso de las leyes aprendidas en estos capitulos hemos logrado analiza
 
 
 VIDEO
-https://www.youtube.com/watch?v=iVFVcOvJpw4
+https://youtu.be/X5E9JjDR_wY
 
 7.BIBLIOGRAFÍA
 
