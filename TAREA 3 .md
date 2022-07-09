@@ -28,7 +28,7 @@ Conocer y aprender conceptos que relaciona la ley de kirchhoff como son la poten
   
   ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/C5M6.jpg?raw=true)
   
-  CAPITULO 6 
+  CAPITULO 6 .
   
    ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/C6M1.jpg?raw=true)
   
