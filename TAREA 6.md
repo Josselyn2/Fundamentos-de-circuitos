@@ -16,17 +16,15 @@ TAREA5 CAP11Y12
 
 3.MARCO TEORICO:
 
-CAPITULO 9 
+CAPITULO 11
 
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP1CAP9.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/1.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/2.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/3.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/4.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/5.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/6.png?raw=true)
 
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP2CAP9.png?raw=true)
-
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP3CAP9.png?raw=true)
-
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP4CAP9.png?raw=true)
-
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP5CAP9.png?raw=true)
 
 CAPITULO 10
 
