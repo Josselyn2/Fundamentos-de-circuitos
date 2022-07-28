@@ -3,16 +3,16 @@
 TAREA5 CAP11Y12
 
 1.OBJETIVOS:
- 
- Reconocer y aprender los metodos que existen para resolver sistemas de ecuaciones simultaneas ademas usar de manera correcta calculadoras virtuales para encontrar valores en los sistemas de ecuaciones por otro lado tambien aprenderemos los principios que tiene un campo magnetico y como podemos calcular la densidad de flujo y entre otras cosas de tal manera que podamos realizar correctamente los ejercicios propuestos en estos dos capitulos antes mencionados. 
+
+Conoces los  conceptos en cuanto a voltajes alternos capacitores ademas de su clasficicacion y todo tipo de uso que lo podemos dar en los circuitos mediante la lectura y realizacion de resumenes en base a mapas mentales de esta manera logramos conocer informacion importante de los capacitores por otro lado resolver ejercicios propuestos en estos capitulos poniendo en pratica la teoria y las formulas estudiadas en los mismos 
 
 2.OBJETIVOS ESPECIFICOS:
 
-1.Reconocer los metodos existentes para poder calcular el sistema de ecuaciones de manera rapido y correcta. 
+1.Entender y conocer el concepto y utilidad de los capacitores
 
-2.Conocer el concepto del flujo magnetico como parte del electromagnetismo.
+2.Identificar los tipos de capacitores y la aplicacion en los circuitos. 
 
-3.Entender la ley de faraday en relacion a la induccion electromagnetica. 
+3.Analizar la resolucion de los ejercicios propuestos en estos capitulos para entender los mismos. 
 
 3.MARCO TEORICO:
 
@@ -26,19 +26,15 @@ CAPITULO 11
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/6.png?raw=true)
 
 
-CAPITULO 10
+CAPITULO 12
 
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP1CAP10.png?raw=true)
-
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP2CAP10.png?raw=true)
-
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP3CAP10.png?raw=true)
-
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP4CAP10.jpeg?raw=true)
-
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP5CAP10.png?raw=true)
-
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAP9Y10/MAP6CAP10.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M1.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M2.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M3.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M4.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M5.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M6.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M7.png?raw=true)
 
 
 4.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -129,23 +125,6 @@ CAPITULO 10
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/33.jpg?raw=true)
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/34.jpg?raw=true)
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/35.jpg?raw=true)
-
-
-5.CONCLUSIONES
-
-Hemos logrado entender cada metodo para la solucion de ecuaciones simultaneas de tal manera que podemos identificar cual es el metodo mas adecuado para cada uno de nosotros por otro lado tambien hemos logrado agilisar esta resolucion haciendo uso de las calculadoras que existen en internet y entre otras. 
-El flujo magnetico hemos logrado reconocerlo como un grupo de lineas de fuerza que van de polo a polo en un iman ademas las lineas que existan en el campo magnetico nos determina el valor de flujo magnetico del tal manera podemos decir que mientras mas lineas haya mas intenso puede ser el campo. 
-En la ley de faraday debemos tomar muy encuenta su concepto que nos dice que el voltaje inducido es igual al numero de vueltas de la bobina multiplicado por la tasa de cambio de flujo magnetico. 
-
-
-VIDEO
-https://youtu.be/X5E9JjDR_wY
-
-7.BIBLIOGRAFÍA
-
-FLOYD, T. L. ( 2007). Principios de circuitos eléctricos.(Octava edición). Naucalpan de Juárez, Mexico: PEARSON EDUCACIÓN.
-
-
 
 5.CONCLUSIONES
 
