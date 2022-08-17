@@ -39,20 +39,22 @@ CAPITULO 12
 4.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej2.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/2.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/3.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/4.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/5.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/6.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/7.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/8.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/9.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/10.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/11.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/12.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/13.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/14.jpg?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/15.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej4.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej6.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej8.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej10.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej12.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej14.jpg?raw=true)
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/2ej14.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/2ej14.jpg?raw=true)
+
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej16.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej18.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/2ej18.jpg?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej20.jpg?raw=true)
+![1](
+![1](
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/16.jpg?raw=true)
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/17.jpg?raw=true)
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/18.jpg?raw=true)
