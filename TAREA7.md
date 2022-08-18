@@ -3,37 +3,32 @@ TAREA5 CAP13Y14
 
 1.OBJETIVOS:
 
-Conocer y aprender formulas para calcular el periodo de las ondas asi como tambien realizar conversiones de grados a radianes y de radianes a gradoas ademas de entender los  conceptos en cuanto a corriente y voltajes alternos capacitores ademas de su clasficicacion y todo tipo de uso que lo podemos dar en los circuitos mediante la lectura y realizacion de resumenes en base a mapas mentales de esta manera logramos conocer informacion importante de los capacitores por otro lado resolver ejercicios propuestos en estos capitulos poniendo en pratica la teoria y las formulas estudiadas en los mismos 
+Conocer y aprender conceptos y teorias que tienen que ver con los inductores y transformadores ademas de entender su uso y sus aplicaciones en circuitos electricos ademas de adquirir practica en cuanto a la resolucion de ejercicios con respecto a los temas presentados en estos capitulos por otro lado aprenderemos tambien las formulas descritas en estos capitulos de tal manera que podamos resolver cualquier ejercicio de este tipo.
 
 2.OBJETIVOS ESPECIFICOS:
 
-1.Entender y conocer el concepto y utilidad de los capacitores
+1.Entender y conocer el concepto y utilidad de los inductores y transformadores 
 
-2.Identificar los tipos de capacitores y la aplicacion en los circuitos. 
+2.Identificar los tipos de inductores y transformadores ademas de su aplicacion en circuitos electricos 
 
 3.Analizar la resolucion de los ejercicios propuestos en estos capitulos para entender los mismos. 
 
 3.MARCO TEORICO:
 
-CAPITULO 11
+CAPITULO 13
 
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/1.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/2.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/3.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/4.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/5.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/6.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP1.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP2.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP3.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP4.png?raw=true)
 
+CAPITULO 14
 
-CAPITULO 12
-
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M1.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M2.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M3.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M4.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M5.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M6.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/MAPAS/M7.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP5.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP6.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP7.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP8.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP9.png?raw=true)
 
 
 4.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -114,11 +109,11 @@ CAPITULO 14
 
 5.CONCLUSIONES
 
-Hemos concluido absorviendo correctamente el conocimiento mostrados en estos capitulos tanto las conversiones presentes como las formulas para calcular los periodos de las ondas ademas de la clasificacion como las formulas usados por los capacitores por otro lado  logramos la resolucion correcta de los ejercicios propuestos entendiendo la aplicacion y el uso de los capacitores que se dan en los circuitos y entendiendo su funcionamiento y cual se puede usar en cada caso que se nos presente. 
+Hemos logrado entender y comprender la utilidad de los capacitores y transformadores ademas de haber absorvido de manera correcta el aprendizaje con respecto a circuitos y el uso de capacitores y transformadores en los mismos por otro lado tambie hemos concluido con la resolucion exito de los ejercicios propuestos en estos capitulos pues existio buen entendimientos en cuanto a los temas presentados en los dos capitulos. 
 
 VIDEO
 
-https://youtu.be/NNCsOdyCuKU
+https://youtu.be/MMN18ntl0mg
 
 7.BIBLIOGRAFÍA
 
