@@ -53,6 +53,7 @@ CAPITULO 12
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej18.jpg?raw=true)
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/2ej18.jpg?raw=true)
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/ej20.jpg?raw=true)
+
 ![1](
 ![1](
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO%2011,12/16.jpg?raw=true)
