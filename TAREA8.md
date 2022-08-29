@@ -1,15 +1,15 @@
 # Fundamentos-de-circuitos
-TAREA5 CAP13Y14
+TAREA5 CAP15Y16
 
 1.OBJETIVOS:
 
-Conocer y aprender conceptos y teorias que tienen que ver con los inductores y transformadores ademas de entender su uso y sus aplicaciones en circuitos electricos ademas de adquirir practica en cuanto a la resolucion de ejercicios con respecto a los temas presentados en estos capitulos por otro lado aprenderemos tambien las formulas descritas en estos capitulos de tal manera que podamos resolver cualquier ejercicio de este tipo.
+Comprender y conocer conceptos y teorias que tienen que ver con los circuitos Rc y RL en serie y paralelo ademas de entender su uso y sus aplicaciones en circuitos electricos por otro lado tambien adquirir practica en cuanto a la resolucion de ejercicios con respecto a los temas presentados en estos capitulos junto con esto tambien  aprenderemos  las formulas descritas en estos capitulos de tal manera que podamos resolver cualquier ejercicio que se nos presente en cuanto al funcionamiento de los circuitos electricos
 
 2.OBJETIVOS ESPECIFICOS:
 
-1.Entender y conocer el concepto y utilidad de los inductores y transformadores 
+1.Entender y reconocer la funcionalidad de los circuitos electricos y sus variaciones
 
-2.Identificar los tipos de inductores y transformadores ademas de su aplicacion en circuitos electricos 
+2.Identificar los tipos de circuitos que se pueden presentar.
 
 3.Analizar la resolucion de los ejercicios propuestos en estos capitulos para entender los mismos. 
 
@@ -28,7 +28,10 @@ CAPITULO 15
 CAPITULO 16
 
 ![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/m1.jpg?raw=true)
-
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/m2.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/m3.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/m4.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/m5.png?raw=true)
 
 4.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -104,11 +107,11 @@ CAPITULO 16
 
 5.CONCLUSIONES
 
-Hemos logrado entender y comprender la utilidad de los capacitores y transformadores ademas de haber absorvido de manera correcta el aprendizaje con respecto a circuitos y el uso de capacitores y transformadores en los mismos por otro lado tambie hemos concluido con la resolucion exito de los ejercicios propuestos en estos capitulos pues existio buen entendimientos en cuanto a los temas presentados en los dos capitulos. 
+Hemos logrado entender y comprender la funcionalidad de los circuitos electricos y sus variaciones  ademas de haber absorvido de manera correcta el aprendizaje con respecto a circuitos tambien hemos logrado entender de manera clara los numeros complejos y su utilidad para los circuitos electricos por otro lado tambie hemos concluido con la resolucion exito de los ejercicios propuestos en estos capitulos pues existio buen entendimientos en cuanto a los temas presentados en los dos capitulos. 
 
 VIDEO
 
-https://youtu.be/MMN18ntl0mg
+https://youtu.be/ih39-zVHb00
 
 7.BIBLIOGRAFÍA
 
