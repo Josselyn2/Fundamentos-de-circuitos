@@ -15,20 +15,19 @@ Conocer y aprender conceptos y teorias que tienen que ver con los inductores y t
 
 3.MARCO TEORICO:
 
-CAPITULO 13
+CAPITULO 15
 
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP1.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP2.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP3.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP4.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/1.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/2.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/3.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/4.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/5.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/6.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/7.png?raw=true)
 
-CAPITULO 14
+CAPITULO 16
 
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP5.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP6.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP7.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP8.png?raw=true)
-![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO13,14/mapas/MAP9.png?raw=true)
+![1](https://github.com/Josselyn2/Fundamentos-de-circuitos/blob/Principal/IMAGENES/CAPITULO15,16/MAPAS/m1.jpg?raw=true)
 
 
 4.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
